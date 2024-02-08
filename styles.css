@@ -1,0 +1,66 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+html {
+    background-color:aquamarine;
+}
+
+body {
+    background-color: beige;
+    padding: 8px 50px 20px;
+    margin: 10px auto;
+    width: 750px;
+    border: 15px white solid;
+    box-shadow: inset;
+
+}
+
+a {
+    font-size: large;
+    color: blue;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+h3 {
+    padding-left: 5%;
+    margin-top: 32px;
+    background-color:indianred ;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding-bottom: 8px;
+}
+
+ul,
+ol {
+    display: block;
+    margin-left: 10%;
+    width: 75% ;
+    padding: 8px 50px;
+    outline: auto;
+}
+
+.Steps li {
+    color: maroon;
+    font-weight: bold;
+}
+
+.Ingredients {
+    font-style: italic;
+}
